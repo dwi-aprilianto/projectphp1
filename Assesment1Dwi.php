@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <head>
-    <title>Perpustakaan</title>
+    <!-- ini judul -->
+    <title>Perpustakaan</title> 
 </head>
 <body>
     <h1>Koleksi Buku Indonesia Pustaka</h1>
